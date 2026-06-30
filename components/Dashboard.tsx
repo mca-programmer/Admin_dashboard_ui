@@ -39,7 +39,7 @@ export default function Dashboard() {
           <div className={styles.pageHeader}>
             <div>
               <h1 className={styles.pageTitle}>Dashboard</h1>
-              <p className={styles.pageSub}>Welcome back, Md Musarraf 👋</p>
+              <p className={styles.pageSub}>Welcome back, Md Al-Amin 👋</p>
             </div>
             <div className={styles.dateRange}>
               <span>📅</span> Dec 1 — Dec 30, 2026
