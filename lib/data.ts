@@ -1,7 +1,7 @@
 export const statsCards = [
   {
     title: "Total Revenue",
-    value: "$84,250",
+    value: "$99,990",
     change: "+12.5%",
     up: true,
     icon: "💰",
@@ -10,7 +10,7 @@ export const statsCards = [
   },
   {
     title: "Active Users",
-    value: "24,318",
+    value: "29,990",
     change: "+8.2%",
     up: true,
     icon: "👥",
@@ -19,7 +19,7 @@ export const statsCards = [
   },
   {
     title: "New Orders",
-    value: "1,847",
+    value: "9,990",
     change: "+3.1%",
     up: true,
     icon: "📦",
@@ -28,7 +28,7 @@ export const statsCards = [
   },
   {
     title: "Bounce Rate",
-    value: "24.8%",
+    value: "50.9%",
     change: "-2.4%",
     up: false,
     icon: "📉",

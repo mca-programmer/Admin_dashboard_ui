@@ -39,10 +39,10 @@ export default function Dashboard() {
           <div className={styles.pageHeader}>
             <div>
               <h1 className={styles.pageTitle}>Dashboard</h1>
-              <p className={styles.pageSub}>Welcome back, M. Ahmed 👋</p>
+              <p className={styles.pageSub}>Welcome back, Md Musarraf 👋</p>
             </div>
             <div className={styles.dateRange}>
-              <span>📅</span> Sep 1 — Sep 30, 2025
+              <span>📅</span> Dec 1 — Dec 30, 2026
             </div>
           </div>
 

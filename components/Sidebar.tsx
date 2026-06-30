@@ -46,7 +46,7 @@ export default function Sidebar({
       <div className={styles.userSection}>
         <div className={styles.avatar}>MA</div>
         <div className={styles.userInfo}>
-          <div className={styles.userName}>M. Ahmed</div>
+          <div className={styles.userName}>Md Musarraf</div>
           <div className={styles.userRole}>Administrator</div>
         </div>
         <div className={styles.onlineDot} />
